@@ -1,0 +1,549 @@
+{
+  "created_at": 1764746050.5658937,
+  "product_desc": "Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black",
+  "provider": "ai_horde",
+  "width": 512,
+  "height": 512,
+  "items": [
+    {
+      "filename": "hero_v0_s4033667515.jpg",
+      "concept": "hero",
+      "seed": 4033667515,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Hero shot — clean studio white background; Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black; centered; natural soft shadow; 50mm, shallow DOF; include brand colors, no extra logos; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "hero_v0_s4033667515.jpg",
+      "concept": "hero",
+      "seed": 4033667515,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Hero shot — clean studio white background; Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black; centered; natural soft shadow; 50mm, shallow DOF; include brand colors, no extra logos; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "hero_v0_s4033667515.jpg",
+      "concept": "hero",
+      "seed": 4033667515,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Hero shot — clean studio white background; Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black; centered; natural soft shadow; 50mm, shallow DOF; include brand colors, no extra logos; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "lifestyle_v0_s2971485657.jpg",
+      "concept": "lifestyle",
+      "seed": 2971485657,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Lifestyle — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black placed on a wooden cafe table near a latte, shallow DOF, warm golden-hour lighting, candid human hand interacting (no faces visible), include brand colors, no extra logos; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "lifestyle_v0_s2971485657.jpg",
+      "concept": "lifestyle",
+      "seed": 2971485657,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Lifestyle — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black placed on a wooden cafe table near a latte, shallow DOF, warm golden-hour lighting, candid human hand interacting (no faces visible), include brand colors, no extra logos; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "lifestyle_v0_s2971485657.jpg",
+      "concept": "lifestyle",
+      "seed": 2971485657,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Lifestyle — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black placed on a wooden cafe table near a latte, shallow DOF, warm golden-hour lighting, candid human hand interacting (no faces visible), include brand colors, no extra logos; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "flatlay_v0_s1265892813.jpg",
+      "concept": "flatlay",
+      "seed": 1265892813,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Flat-lay — top-down composition, Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black among related accessories, minimal clutter, brand color accents; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "flatlay_v0_s1265892813.jpg",
+      "concept": "flatlay",
+      "seed": 1265892813,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Flat-lay — top-down composition, Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black among related accessories, minimal clutter, brand color accents; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "flatlay_v0_s1265892813.jpg",
+      "concept": "flatlay",
+      "seed": 1265892813,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Flat-lay — top-down composition, Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black among related accessories, minimal clutter, brand color accents; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "closeup_v0_s2681488942.jpg",
+      "concept": "closeup",
+      "seed": 2681488942,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Close-up — macro shot of Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black texture and logo area, crisp details, soft gradient background; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "closeup_v0_s2681488942.jpg",
+      "concept": "closeup",
+      "seed": 2681488942,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Close-up — macro shot of Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black texture and logo area, crisp details, soft gradient background; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "closeup_v0_s2681488942.jpg",
+      "concept": "closeup",
+      "seed": 2681488942,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Close-up — macro shot of Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black texture and logo area, crisp details, soft gradient background; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "duotone_v0_s2953603444.jpg",
+      "concept": "duotone",
+      "seed": 2953603444,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Graphic duotone — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black silhouette styled with brand palette duotone, high contrast, geometric shapes background; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "duotone_v0_s2953603444.jpg",
+      "concept": "duotone",
+      "seed": 2953603444,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Graphic duotone — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black silhouette styled with brand palette duotone, high contrast, geometric shapes background; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "duotone_v0_s2953603444.jpg",
+      "concept": "duotone",
+      "seed": 2953603444,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Graphic duotone — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black silhouette styled with brand palette duotone, high contrast, geometric shapes background; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "seasonal_v0_s2146445811.jpg",
+      "concept": "seasonal",
+      "seed": 2146445811,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Seasonal festive — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black with subtle holiday props (winter - snow-soft bokeh), cozy warm lighting, no religious icons, brand voice warm; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "seasonal_v0_s2146445811.jpg",
+      "concept": "seasonal",
+      "seed": 2146445811,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Seasonal festive — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black with subtle holiday props (winter - snow-soft bokeh), cozy warm lighting, no religious icons, brand voice warm; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "seasonal_v0_s2146445811.jpg",
+      "concept": "seasonal",
+      "seed": 2146445811,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Seasonal festive — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black with subtle holiday props (winter - snow-soft bokeh), cozy warm lighting, no religious icons, brand voice warm; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "action_v0_s2370381403.jpg",
+      "concept": "action",
+      "seed": 2370381403,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Action shot — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black in motion (pouring or being grabbed), motion blur artfully used, dynamic angle, realistic; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "action_v0_s2370381403.jpg",
+      "concept": "action",
+      "seed": 2370381403,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Action shot — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black in motion (pouring or being grabbed), motion blur artfully used, dynamic angle, realistic; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "action_v0_s2370381403.jpg",
+      "concept": "action",
+      "seed": 2370381403,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Action shot — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black in motion (pouring or being grabbed), motion blur artfully used, dynamic angle, realistic; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "minimal_v0_s2890160890.jpg",
+      "concept": "minimal",
+      "seed": 2890160890,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Minimalist — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black on a large negative-space backdrop with brand color accent, strong composition, subtle shadow, premium feel; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "minimal_v0_s2890160890.jpg",
+      "concept": "minimal",
+      "seed": 2890160890,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Minimalist — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black on a large negative-space backdrop with brand color accent, strong composition, subtle shadow, premium feel; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "minimal_v0_s2890160890.jpg",
+      "concept": "minimal",
+      "seed": 2890160890,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Minimalist — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black on a large negative-space backdrop with brand color accent, strong composition, subtle shadow, premium feel; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "outdoor_v0_s93195341.jpg",
+      "concept": "outdoor",
+      "seed": 93195341,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Outdoor — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black on a hiking trail bench, natural light, rugged props, realistic environmental integration; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "outdoor_v0_s93195341.jpg",
+      "concept": "outdoor",
+      "seed": 93195341,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Outdoor — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black on a hiking trail bench, natural light, rugged props, realistic environmental integration; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "outdoor_v0_s93195341.jpg",
+      "concept": "outdoor",
+      "seed": 93195341,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Outdoor — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black on a hiking trail bench, natural light, rugged props, realistic environmental integration; high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "mockup_v0_s3329905334.jpg",
+      "concept": "mockup",
+      "seed": 3329905334,
+      "provider_used": "ai_horde",
+      "tone": "formal",
+      "caption": {
+        "headline": "Premium performance, reliable every day.",
+        "body": "The Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black combines refined design with lasting durability — perfect for daily use.",
+        "cta": "Shop now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Ad mockup — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black with top-left reserved space for text, safe margins, high-contrast area for CTA overlay (do NOT render text in image); high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "mockup_v0_s3329905334.jpg",
+      "concept": "mockup",
+      "seed": 3329905334,
+      "provider_used": "ai_horde",
+      "tone": "witty",
+      "caption": {
+        "headline": "Sip smarter, not harder.",
+        "body": "This Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black keeps your drink hot and your hands happy. Fancy that!",
+        "cta": "Get it",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Ad mockup — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black with top-left reserved space for text, safe margins, high-contrast area for CTA overlay (do NOT render text in image); high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    },
+    {
+      "filename": "mockup_v0_s3329905334.jpg",
+      "concept": "mockup",
+      "seed": 3329905334,
+      "provider_used": "ai_horde",
+      "tone": "urgent",
+      "caption": {
+        "headline": "Limited stock — grab yours now!",
+        "body": "Hurry — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black selling fast. Take it before it's gone.",
+        "cta": "Buy now",
+        "hashtags": [
+          "#design",
+          "#everyday",
+          "#musthave"
+        ]
+      },
+      "prompt": "Ad mockup — Premium Insulated Stainless Steel Travel Mug - 12oz Matte Black with top-left reserved space for text, safe margins, high-contrast area for CTA overlay (do NOT render text in image); high-detail, photorealistic; no text/watermarks NEGATIVE_PROMPT: watermark, lowres, text, extra fingers, logo of other brands, nsfw, noisy, oversaturated"
+    }
+  ]
+}
